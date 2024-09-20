@@ -19,7 +19,10 @@ See instructions. Delete this line and place your Product Vision Statement here.
 
 ## User Requirements
 
-See instructions. Delete this line and place a list of your User Stories here.
+1. As a potential pet owner, I want to access reliable information about different pet species so that I can make informed decisions and avoid misinformation.<br>
+2. As a potential pet owner, I want to browse photos and stories of other people's pets so that I can learn from their experiences and find out my favorite type of pet.<br>
+3. As a potential pet owner, I want to find trustworthy breeders so that I can avoid fraud and ensure that I’m getting a healthy pet.<br>
+4. As a potential pet owner, I want to connect with reputable pet stores so that I can easily purchase pet supplies and services without worrying about scams.<br>
 
 ## Activity Diagrams
 
