@@ -4,11 +4,11 @@ A little exercise to get started with the specification phase of the software de
 
 ## Team members
 
-See instructions. Delete this line and replace with a list of the names of your team members, including links to each one's GitHub profile.
+Annabella Lee (https://github.com/annabellalee0113)
 
 ## Stakeholders
 
-See instructions. Delete this line and replace with the name(s) of the stakeholder(s) you interviewed and lists showing their goals/needs, and problems/frustrations.
+We identified 4 types of stakeholder for this software: pet stores, pet owners, pet lovers, and potential pet owners.
 
 ## Product Vision Statement
 
