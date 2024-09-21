@@ -22,7 +22,6 @@ We identified 4 types of stakeholder for this software: pet stores, pet owners, 
     For the pet stores, our app will help them spread their influences and potentially draw more customers to their product and services.<br>
 - Pet Owners<br>
     Some of our group members are pet owners, and interviews with them suggest a great need for reliable, safe, yet affordable pet products. Pet owners, especially those who do not live in urban environments, often have trouble finding a local pet store, and some are too busy to pick up supplies from the stores themselves. Also, pet owners generally express concern about the quality of the pet products that they can find at local stores. Some pet owners with unusual pets find it difficult to buy special pet products locally. With our app, pet owners can choose from a variety of pet stores approved and endorsed by trusted pet organizations and experts, and then simply buy products online. If their pets get sick, they can also find and contact local, reliable animal hospitals through our app.
-
     Pet owners also express the desire to share stories and videos of their pets and potentially connect with other pet owners. Our app provides such a platform for pet owners to socialize online. 
     <br>
 - Pet Lovers<br>
@@ -43,13 +42,18 @@ See instructions. Delete this line and place your Product Vision Statement here.
 2. As a potential pet owner, I want to browse photos and stories of other people's pets so that I can learn from their experiences and find out my favorite type of pet.<br>
 3. As a potential pet owner, I want to find trustworthy breeders so that I can avoid fraud and ensure that I’m getting a healthy pet.<br>
 4. As a potential pet owner, I want to connect with reputable pet stores so that I can easily purchase pet supplies and services without worrying about scams.<br>
-5. As a pet lover, I want to find a place with pet sharing moments so that I can enjoy the joy of "vitual pet cudding".<br>
+5. As a pet lover, I want to find a place with pet sharing moments so that I can enjoy the joy of "virtual pet cuddling".<br>
 6. As a pet lover, I want to communicate with real pet owner so that I can learn about the important things to consider when actually owning a pet.<br>
 7. As a pet lover, I want to find like-minded friends on this platform so that I can build long-lasting friendships.<br>
 8. As a pet lover, I want to find people in similar situations to break down my concerns about owning a pet so that I can have a pet of my own.<br>
 9. As a pet supply store, I want to cater my products to a broader audience so that I can gain more revenue. <br>
 10. As a veterinary hospital, I want to increase my influence so that pet owners know where to go when their pets are in medical need. <br>
 11. As a pet shelter, I want to find trustworthy adopters that can take good care of pets in our shelter. <br>
+12. As a pet owner, I want to find trustworthy pet stores to regularly buy supplies for my pets.
+13. As a pet owner, I want to buy pet products online because I don't want to pick up supplies myself from local stores/I own exotic pets.
+14. As a pet owner, I want to be able to quickly find and contact veterinary hospitals when my pets need urgent medical treatment.
+15. As a pet owner, I want to share pictures or videos of my pets so that I can make friends with other pet owners online.
+16. As a pet owner, I want to learn more about my pets so that I can better care for them.
 
 ## Activity Diagrams
 
