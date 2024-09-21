@@ -10,6 +10,8 @@ An Hai (https://github.com/AnHaii)
 
 Thomas Chen(https://github.com/ThomasChen0717)
 
+Ziqiu (Edison) Wang (https://github.com/ziqiu-wang)
+
 ## Stakeholders
 We identified 4 types of stakeholder for this software: pet stores, pet owners, pet lovers, and potential pet owners.<br><br>
 - Pet Stores(We couldn't find a associated interviewee, so we generalized what we thought pet stores would desire in our app)<br>
