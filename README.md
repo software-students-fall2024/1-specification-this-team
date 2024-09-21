@@ -5,7 +5,9 @@ A little exercise to get started with the specification phase of the software de
 ## Team members
 
 Annabella Lee (https://github.com/annabellalee0113)
+
 An Hai (https://github.com/AnHaii)
+
 Thomas Chen(https://github.com/ThomasChen0717)
 
 ## Stakeholders
@@ -15,7 +17,7 @@ We identified 4 types of stakeholder for this software: pet stores, pet owners, 
     - Pet Shelters: Organizations that provide a temporary home for pets and offers adoptation services. 
     - Pet Supply Stores: Stores that sell pet food, pet leash, and all kinds of pet supplies. 
     - Veterinary Hospitals(Animal Clinics): Hospitals that care for pet's health. 
-    
+
     Our app will implement an online shopping platform, similar to that of Amazon's, that is dedicated to pet products. Pet Supply stores can utilize this platform to post their products on our software. We will also implement a online reservation functionality where Pet Shelters and Vets can upload their avaliability for the consumers to choose. 
     For the pet stores, our app will help them spread their influences and potentially draw more customers to their product and services.<br>
 - Pet Lovers<br>
