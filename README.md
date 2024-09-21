@@ -5,12 +5,17 @@ A little exercise to get started with the specification phase of the software de
 ## Team members
 
 Annabella Lee (https://github.com/annabellalee0113)
+An Hai (https://github.com/AnHaii)
 
 ## Stakeholders
 
-We identified 4 types of stakeholder for this software: pet stores, pet owners, pet lovers, and potential pet owners.<br>
+We identified 4 types of stakeholder for this software: pet stores, pet owners, pet lovers, and potential pet owners.<br><br>
+Potential Pet Owners<br>
 For potential pet owners, the main uses of this app revolve around understanding different pet species, viewing pet-related content, and connecting with breeders. Their primary goal is to educate themselves about the needs and characteristics of each species to avoid misinformation. This includes having access to a reliable wiki or animal associations that provides detailed information on pet care, health, and behavior. <br>
-Additionally, potential pet owners enjoy watching others share moments with their pets. Therefore, the app’s social feature should allow users to browse photos and stories of others' pets, fostering a sense of community and connection. Another key feature desired by potential pet owners is the ability to find trustworthy breeders or pet stores. This would help them avoid fraud and ensure a smoother, more reliable communication process with breeders or vendors, making it easier to find the right pet.
+Additionally, potential pet owners enjoy watching others share moments with their pets. Therefore, the app’s social feature should allow users to browse photos and stories of others' pets, fostering a sense of community and connection. Another key feature desired by potential pet owners is the ability to find trustworthy breeders or pet stores. This would help them avoid fraud and ensure a smoother, more reliable communication process with breeders or vendors, making it easier to find the right pet.<br><br>
+Pet Lovers<br>
+For pet lovers, we define pet lovers as those who are neither pet owners nor able to have a pet for various reasons, yet are very interested in pets. We believe this group represents the largest segment, as there are not many actual pet owners, but many who love pets. For these individuals, our app provides a great information and social platform where they can find share moments from others that interest them, allowing them to experience joy. This step significantly enhances user engagement, as both publishers and pet lovers receive positive feedback from it, supporting the app's data.<br>
+More importantly, as these pet lovers gradually learn more about our app, they may transition into potential pet owners and eventually become pet owners themselves, sharing their own moments. This undoubtedly brings sufficient vitality and a positive cycle to our app.<br>
 
 
 ## Product Vision Statement
@@ -23,6 +28,10 @@ See instructions. Delete this line and place your Product Vision Statement here.
 2. As a potential pet owner, I want to browse photos and stories of other people's pets so that I can learn from their experiences and find out my favorite type of pet.<br>
 3. As a potential pet owner, I want to find trustworthy breeders so that I can avoid fraud and ensure that I’m getting a healthy pet.<br>
 4. As a potential pet owner, I want to connect with reputable pet stores so that I can easily purchase pet supplies and services without worrying about scams.<br>
+5. As a pet lover, I want to find a place with pet sharing moments so that I can enjoy the joy of "vitual pet cudding".<br>
+6. As a pet lover, I want to communicate with real pet owner so that I can learn about the important things to consider when actually owning a pet.<br>
+7. As a pet lover, I want to find like-minded friends on this platform so that I can build long-lasting friendships.<br>
+8. As a pet lover, I want to find people in similar situations to break down my concerns about owning a pet so that I can have a pet of my own.<br>
 
 ## Activity Diagrams
 
