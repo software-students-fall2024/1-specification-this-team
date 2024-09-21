@@ -49,11 +49,11 @@ See instructions. Delete this line and place your Product Vision Statement here.
 9. As a pet supply store, I want to cater my products to a broader audience so that I can gain more revenue. <br>
 10. As a veterinary hospital, I want to increase my influence so that pet owners know where to go when their pets are in medical need. <br>
 11. As a pet shelter, I want to find trustworthy adopters that can take good care of pets in our shelter. <br>
-12. As a pet owner, I want to find trustworthy pet stores to regularly buy supplies for my pets.
-13. As a pet owner, I want to buy pet products online because I don't want to pick up supplies myself from local stores/I own exotic pets.
-14. As a pet owner, I want to be able to quickly find and contact veterinary hospitals when my pets need urgent medical treatment.
-15. As a pet owner, I want to share pictures or videos of my pets so that I can make friends with other pet owners online.
-16. As a pet owner, I want to learn more about my pets so that I can better care for them.
+12. As a pet owner, I want to find trustworthy pet stores to regularly buy supplies for my pets.<br>
+13. As a pet owner, I want to buy pet products online because I don't want to pick up supplies myself from local stores/I own exotic pets.<br>
+14. As a pet owner, I want to be able to quickly find and contact veterinary hospitals when my pets need urgent medical treatment.<br>
+15. As a pet owner, I want to share pictures or videos of my pets so that I can make friends with other pet owners online.<br>
+16. As a pet owner, I want to learn more about my pets so that I can better care for them.<br>
 
 ## Activity Diagrams
 
