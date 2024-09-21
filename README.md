@@ -42,6 +42,9 @@ See instructions. Delete this line and place your Product Vision Statement here.
 6. As a pet lover, I want to communicate with real pet owner so that I can learn about the important things to consider when actually owning a pet.<br>
 7. As a pet lover, I want to find like-minded friends on this platform so that I can build long-lasting friendships.<br>
 8. As a pet lover, I want to find people in similar situations to break down my concerns about owning a pet so that I can have a pet of my own.<br>
+9. As a pet supply store, I want to cater my products to a broader audience so that I can gain more revenue. <br>
+10. As a veterinary hospital, I want to increase my influence so that pet owners know where to go when their pets are in medical need. <br>
+11. As a pet shelter, I want to find trustworthy adopters that can take good care of pets in our shelter. <br>
 
 ## Activity Diagrams
 
