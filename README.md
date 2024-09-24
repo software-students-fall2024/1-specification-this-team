@@ -58,9 +58,11 @@ Our app provides a comprehensive platform that affords pet lovers and owners acc
 16. As a pet owner, I want to learn more about my pets so that I can better care for them.<br>
 
 ## Activity Diagrams
+The Activity Diagram below is for User Story #6
+![User Story #6](./images/Activity_Diagram_US_6.jpg)()
 
-See instructions. Delete this line and place images of your UML Activity diagrams here.
-
+The Activity Diagram below is for User Story #13
+![User Story #13](./images/Activity_Diagram_US_13.jpg)()
 ## Clickable Prototype
 
 See instructions. Delete this line and place a publicly-accessible link to your clickable prototype here.
