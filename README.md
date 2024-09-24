@@ -36,7 +36,7 @@ We identified 4 types of stakeholder for this software: pet stores, pet owners, 
 
 ## Product Vision Statement
 
-See instructions. Delete this line and place your Product Vision Statement here.
+Our app provides a comprehensive platform that affords pet lovers and owners access to reliable information and services while helping pet stores and animal institutions gain exposure, thus fostering a supportive pet-loving community.
 
 ## User Requirements
 
