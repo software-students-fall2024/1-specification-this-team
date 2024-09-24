@@ -59,10 +59,10 @@ Our app provides a comprehensive platform that affords pet lovers and owners acc
 
 ## Activity Diagrams
 The Activity Diagram below is for User Story #6
-![User Story #6](./images/Activity_Diagram_US_6.jpg)()
+![User Story #6](./images/Activity_Diagram_US_6.jpg)
 
 The Activity Diagram below is for User Story #13
-![User Story #13](./images/Activity_Diagram_US_13.jpg)()
+![User Story #13](./images/Activity_Diagram_US_13.jpg)
 ## Clickable Prototype
 
 [My Prototype](https://www.figma.com/proto/zqba1RR7MOGZDQFMqkyPon/this.team?node-id=2-16&node-type=frame&t=I1QkEKXmTXmmvIQt-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=2%3A16)
